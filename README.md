@@ -1,4 +1,4 @@
-# Concurrent Airport Simulator - Asia Pacific Airport
+# Airport Simulator
 
 This project simulates the operation of Asia Pacific Airport, from landing requests to take-off, using concurrency concepts. Developed in Java using IntelliJ IDEA, this simulator manages multiple activities concurrently to replicate real-world airport operations.
 
